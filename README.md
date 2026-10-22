@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Miit Matlani</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miitmatlani&label=Profile%20views&color=0e75b6&style=flat" alt="miitmatlani" /> </p>
+<a href="https://meet-miit.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-night.svg">
+    <img alt="Meet Miit. Just a model under training: an ML engineer's career drawn as a training-loss curve that never quite reaches irreducible error." src="./assets/header-paper.svg" width="100%">
+  </picture>
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miitmatlani" alt="miitmatlani" /></a> </p>
+**ML/AI engineer in Mumbai.** Three years across medical devices, speech and language models. I build systems, then audit them, then audit the audit.
 
-<p align="left"> <a href="https://twitter.com/matlanimiit" target="blank"><img src="https://img.shields.io/twitter/follow/matlanimiit?logo=twitter&style=for-the-badge" alt="matlanimiit" /></a> </p>
+The full training log lives at **[meet-miit.vercel.app](https://meet-miit.vercel.app)**. It has a temperature dial that sets how unhinged the copy gets. Start cold.
 
-- 👀 I’m interested in **Football, Psychology, Computer Vision, Machine Learning and Natural Language Processing**
+### 03 / held-out set
 
-- 📫 How to reach me **miitmatlani07@gmail.com**
+| run | system | what I found |
+|:--|:--|:--|
+| [01](https://meet-miit.vercel.app/projects/intraday-trading) | Intraday trading system | The headline return came from one month. The framework that proved it is the deliverable. |
+| [02](https://meet-miit.vercel.app/projects/haemoglobin-screening) | Non-invasive haemoglobin screening | The accuracy problem was never the model: no two devices agreed. Calibrate the fleet, then the model. |
+| [03](https://meet-miit.vercel.app/projects/lateral-flow-reader) | Lateral-flow strip reader | 40 and 50 mIU/mL produce the same colour. Saying so early redirected the product, and it shipped. |
+| [04](https://meet-miit.vercel.app/projects/hindi-voice-agent) | Hindi voice agent on one GPU | Speech recognition, a language model and speech synthesis on one 6GB GPU. Compliance sits where the words come out. |
+| [05](https://meet-miit.vercel.app/projects/call-intelligence) | Call-intelligence pipeline | Sentiment was the wrong question; friction was the right one. |
+| [06](https://meet-miit.vercel.app/projects/nl-to-sql) | On-premise natural-language SQL | The best query is the one the model never wrote: 28 templates before it gets a turn. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/matlanimiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matlanimiit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miit matlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miit matlani" height="30" width="40" /></a>
-<a href="https://kaggle.com/miitmatlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="miitmatlani" height="30" width="40" /></a>
-<a href="https://instagram.com/miit_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miit_10" height="30" width="40" /></a>
-</p>
+### 04 / trained with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+`python` `pytorch` `scikit-learn` `xgboost` `lightgbm` `faster-whisper` `ctranslate2` `qwen` `ollama` `sqlglot` `opencv` `fastapi`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miitmatlani&show_icons=true&locale=en&layout=compact" alt="miitmatlani" /></p>
+```console
+$ git log --oneline
+e4a1c92 feat(voice): fit stt + llm + tts on one 6gb gpu. did not buy a bigger gpu.
+b91d7f0 perf(calls): batch whisper decoding. 467s → 54s.
+7c03aa4 test(trading): walk forward 417,652 signals. trust nothing in-sample.
+3f8e1b5 feat(hb): pure-python svm for devices that cannot pip install
+d2c9e07 refactor(devices): calibrate the fleet, not the model
+a1b2c3d feat(sql): 28 templates before the model gets a turn
+0000000 init: b.tech data science, mumbai. learning rate: high.
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miitmatlani&show_icons=true&locale=en" alt="miitmatlani" /></p>
+### 05 / checkpoint
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miitmatlani&" alt="miitmatlani" /></p>
+[portfolio](https://meet-miit.vercel.app) · [linkedin](https://in.linkedin.com/in/miit-matlani-996841190) · [kaggle](https://www.kaggle.com/miitmatlani) · miitmatlani07@gmail.com
+
+<sub>epoch 25/∞, still learning. no early stopping.</sub>
